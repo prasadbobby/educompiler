@@ -106,9 +106,9 @@
 <i class="fa fa-share-square-o" aria-hidden="true"></i> Share (Ctrl+S)
 </button>
 <div class="dropdown-menu" aria-labelledby="controller">
-<label for="basic-url">Your vanity URL</label>
+<label for="basic-url">Your unique URL</label>
 <div class="input-group">
-<span class="input-group-addon" id="basic-addon3">http://prasadbobby.me/compiler/?~</span>
+<span class="input-group-addon" id="basic-addon3">https://educompiler.herokuapp.com?~</span>
 <input type="text" class="form-control" id="basic-url" placeholder="custom label" aria-describedby="basic-addon3">
 </div>
 <div style="height: 7px;"></div>
