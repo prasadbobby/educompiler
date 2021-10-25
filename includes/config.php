@@ -7,7 +7,7 @@
 	$gClient->setApplicationName("LoginWith Google");
 	$gClient->setRedirectUri("https://educompiler.herokuapp.com/g-callback.php");
 	$gClient->addScope("https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email");	
-	$con = new mysqli('remotemysql.com', 'FOb8ZnwJ4Q','9NuINcoQ1M' ,'FOb8ZnwJ4Q');
+	$con = new mysqli('remotemysql.com', 'xKNpK4OQM2','SuaIp7sgSd' ,'xKNpK4OQM2');
     if ($con->connect_error) {
     die("Connection failed: " . $con->connect_error);
 }	
